@@ -30,7 +30,7 @@ from .plot_dbscan import plot_dbscan
 from .plot_ridge import plot_ridge_n_samples
 
 __all__ = ['plot_linear_svc_regularization',
-           "plot_animal_tree", "plot_tree_progressive",
+           'plot_animal_tree', 'plot_tree_progressive',
            'plot_tree_partition', 'plot_svm',
            'plot_knn_regression',
            'plot_logistic_regression_graph',
